@@ -20,7 +20,7 @@ inputIsIntAndInRange = lambda : int(exerciseNumberAsStr) < 9
 
 # if input can be parsed and value is within range
 if(tryc(inputIsIntAndInRange, False)):
-    print(f'executing exercise {exerciseNumberAsStr} ...')
+    print(f'executing exercise {exerciseNumberAsStr} ...\n')
     importExecuteExercise(f'exercise{exerciseNumberAsStr}')
 else:
     print("Input not recognised as a valid exercise number.")

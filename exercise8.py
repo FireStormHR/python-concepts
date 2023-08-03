@@ -20,7 +20,7 @@ class Exercise8():
         # In this task we will learn how to create a function which is less dependant on outer scope.
         #
         # Task:
-        # - Make sure the function doesnt use the myCar varable directly.
+        # - Make sure the function doesnt use the myCar variable directly, without breaking the program.
         # - Try and also stop using the resultList inside the def. 
         #   When done both you should be able to cut and paste the def at line three, you are now free to use the func in every class.
 
