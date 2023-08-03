@@ -23,24 +23,27 @@ To edit and run this project, you can undertake the following steps
 ## Tips for exercises
 ### Exercise 1
 View it as a cabinet with documents. The '=' sign is telling everyone: 'At this location ive named myself I will put this bit of information'.
-So for example: `drawerB = 5`
+So for example: `drawerB = 5`.
 
 ### Exercise 2
 When googling a solution for this task, changing the type of a value is often called parsing or casting.
-For checking if the type-changing code worked, you need to use a try-except block (so not an if)
+For checking if the type-changing code worked, you need to use a try-except block (so not an if).
 
 ### Exercise 3
-This is more a show and tell. The missing code is only one line
+This is more a show and tell. The missing code is only one line.
 
 ### Exercise 4
-When trying to determine what the code should do, keep in mind there can also be spaces after the x-es
+When trying to determine what the code should do, keep in mind there can also be spaces after the x-es.
 
 ### Exercise 5
-Keywords to search for when googling are class, constructor, attribute, method
+Keywords to search for when googling are class, constructor, attribute, method.
 
 ### Exercise 6
 Just removing the line `myCar.colour = 'geel'` is not an option.
 How do we make sure both variables are not related?
 
 ### Exercise 7
-the keyword `def` is vital here. Try and create code resulting in the ifelse block only being present once.
+The keyword `def` is vital here. Try and create code resulting in the ifelse block only being present once.
+
+### Exercise 8
+The keyword to google for is function parameter.

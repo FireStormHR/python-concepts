@@ -11,12 +11,12 @@ exerciseNumberAsStr = input(
             5: Classes/objects\n\
             6: Objects are references\n\
             7: Functions\n\
-            8 WIP: Function parameters\n\
+            8: Function parameters\n\
             9 WIP: Commenting and in-file documentation\n\
             10 WIP: statically typed vs dynamically typed\n\
             \n')
 
-inputIsIntAndInRange = lambda : int(exerciseNumberAsStr) < 8
+inputIsIntAndInRange = lambda : int(exerciseNumberAsStr) < 9
 
 # if input can be parsed and value is within range
 if(tryc(inputIsIntAndInRange, False)):

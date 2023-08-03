@@ -20,29 +20,29 @@ class Exercise7():
         # In this task we will make use of the function functionality.
         #
         # Task:
-        # - Shorten this code by making a function without damaging the program.
+        # - Shorten this code by making a function without breaking the program.
 
         resultList: list[bool] = []
 
         # ALTER CODE BELOW
 
-        henksAuto = Car('rood')
+        myCar = Car('rood')
 
-        if (henksAuto.colour == 'geel'):
+        if (myCar.colour == 'geel'):
             resultList.append(True)
         else:
             resultList.append(False)
 
-        henksAuto.colour = 'blauw'
+        myCar.colour = 'blauw'
 
-        if (henksAuto.colour == 'geel'):
+        if (myCar.colour == 'geel'):
             resultList.append(True)
         else:
             resultList.append(False)
 
-        henksAuto.colour = 'geel'
+        myCar.colour = 'geel'
 
-        if (henksAuto.colour == 'geel'):
+        if (myCar.colour == 'geel'):
             resultList.append(True)
         else:
             resultList.append(False)
