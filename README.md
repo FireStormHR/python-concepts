@@ -16,7 +16,7 @@ To edit and run this project, you can undertake the following steps
         - powershell
         - pylance
         - python
-    3. Link the downloaded python Interpreter to VScode by doing: `Ctrl + Shift + p -> Python: select interpreter` and select the interpreter which is like at `%user%\AppData\Local\Programs\Python\Python311`
+    3. Link the downloaded python Interpreter to VScode by doing: `Ctrl + Shift + p -> Python: select interpreter` and select the interpreter which is likely at `%user%\AppData\Local\Programs\Python\Python311`
 4. Open a terminal and check if py is callable `py --version`. (In VScode an integrated terminal is available `` Ctrl + Shift + ` ``)
 5. Ready to exercise! Look at the tasks and fill in the blanks. Everytime you want to try out an exercise enter in the terminal: `py app.py`
 
