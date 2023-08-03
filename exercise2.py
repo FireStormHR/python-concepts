@@ -34,9 +34,14 @@ class Exercise2():
         return [self.runExercise('1'), self.runExercise('46'), self.runExercise('hello there')]
 
     def checkResults(self, exerciseResults: list[int]):
-        print(f'expected outcome: 1\n\
-              your result: {exerciseResults[0]}')
-        print(f'expected outcome: 46\n\
-              your result: {exerciseResults[1]}')
-        print(f'expected outcome: -5\n\
-              your result: {exerciseResults[2]}')
+        print('with a being \'1\':')
+        print('expected outcome: 1')
+        print(f'your result: {exerciseResults[0]}\n')
+
+        print('with a being \'46\':')
+        print('expected outcome: 46')
+        print(f'your result: {exerciseResults[1]}\n')
+        
+        print('with a being \'hello there\':')
+        print('expected outcome: -5')
+        print(f'your result: {exerciseResults[2]}\n')

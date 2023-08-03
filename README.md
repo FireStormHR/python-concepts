@@ -26,7 +26,12 @@ To edit and run this project, you can undertake the following steps
 View it as a cabinet with documents. The '=' sign is telling everyone: 'At this location ive named myself I will put this bit of information'.
 So for example: `drawerB = 5`
 
-
 ### Exercise 2
 When googling a solution for this task, changing the type of a value is often called parsing or casting.
 For checking if the type-changing code worked, you need to use a try-except block (so not an if)
+
+### Exercise 3
+This is more a show and tell. The missing code is only one line
+
+### Exercise 4
+When trying to determine what the code should do, keep in mind there can also be spaces after the x-es

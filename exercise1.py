@@ -35,11 +35,18 @@ class Exercise1():
         return [self.runExercise(1, 1), self.runExercise(-2, -3), self.runExercise(20, 5), self.runExercise(20, 6)]
 
     def checkResults(self, exerciseResults: list[int]):
-        print(f'expected outcome: \'7\'\n\
-              your result: {exerciseResults[0]}')
-        print(f'expected outcome: \'0\'\n\
-              your result: {exerciseResults[1]}')
-        print(f'expected outcome: \'30\'\n\
-              your result: {exerciseResults[2]}')
-        print(f'expected outcome: \'-46\'\n\
-              your result: {exerciseResults[3]}')
+        print('with a being 1 and b being 1:')
+        print('expected outcome: \'7\'')
+        print(f'your result: {exerciseResults[0]}\n')
+        
+        print('with a being -2 and b being -3:')
+        print('expected outcome: \'0\'')
+        print(f'your result: {exerciseResults[1]}\n')
+        
+        print('with a being 20 and b being 5:')
+        print('expected outcome: \'30\'')
+        print(f'your result: {exerciseResults[2]}\n')
+        
+        print('with a being 20 and b being 6:')
+        print('expected outcome: \'-46\'')
+        print(f'your result: {exerciseResults[3]}\n')

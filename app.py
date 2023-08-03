@@ -16,18 +16,6 @@ checkColour(henksAuto.colour)
 henksAuto.colour = 'geel'
 result = checkColour(henksAuto.colour)
 
-"""
-variables
-conditions
-data-types
-classes/objects
-objects are references (stored in heap insted of stack)
-functions
-function parameters
-commenting and in-file documentation (Docstrings)
-statically typed vs dynamically typed
-"""
-
 exerciseNumberAsStr = input(
     'Which exercise do you want to run? Enter a number.\n\
         Options:\n\
