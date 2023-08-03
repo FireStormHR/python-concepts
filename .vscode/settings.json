@@ -3,7 +3,7 @@
     "python.testing.unittestEnabled": true,
     "python.analysis.typeCheckingMode": "basic",
     "[python]": {
-        "editor.defaultFormatter": "ms-python.autopep8"
+        "editor.defaultFormatter": "ms-python.black-formatter"
     },
     "python.formatting.provider": "none",
     "[powershell]": {
