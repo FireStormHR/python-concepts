@@ -18,6 +18,7 @@ class Exercise2():
         #
         # Task:
         # - Create a variable which holds a number/int version of the string in a
+        # - return this variable by typing: `return {variable}`
         # - If the type-changing wasnt possible, return -5
 
         # CREATE CODE BELOW

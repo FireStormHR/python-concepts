@@ -35,3 +35,6 @@ This is more a show and tell. The missing code is only one line
 
 ### Exercise 4
 When trying to determine what the code should do, keep in mind there can also be spaces after the x-es
+
+### Exercise 5
+Keywords to search for when googling are class, constructor, attribute, method
