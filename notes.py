@@ -10,9 +10,9 @@ class car():
 class volkswagen(car):
     """This is a nice car."""
 
-    def __init__(self, name, age, color):
+    def __init__(self, name, age, colour):
         super().__init__(name, age)
-        self.color = color
+        self.colour = colour
 
     def race(self, onSuccess: Callable[[int], str]) -> None:
         print('racing')

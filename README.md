@@ -16,7 +16,6 @@ To edit and run this project, you can undertake the following steps
         - powershell
         - pylance
         - python
-        - (optional) Black Formatter
     3. Link the downloaded python Interpreter to VScode by doing: `Ctrl + Shift + p -> Python: select interpreter` and select the interpreter which is like at `%user%\AppData\Local\Programs\Python\Python311`
 4. Open a terminal and check if py is callable `py --version`. (In VScode an integrated terminal is available `` Ctrl + Shift + ` ``)
 5. Ready to exercise! Look at the tasks and fill in the blanks. Everytime you want to try out an exercise enter in the terminal: `py app.py`
@@ -38,3 +37,10 @@ When trying to determine what the code should do, keep in mind there can also be
 
 ### Exercise 5
 Keywords to search for when googling are class, constructor, attribute, method
+
+### Exercise 6
+Just removing the line `myCar.colour = 'geel'` is not an option.
+How do we make sure both variables are not related?
+
+### Exercise 7
+the keyword `def` is vital here. Try and create code resulting in the ifelse block only being present once.

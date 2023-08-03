@@ -21,38 +21,38 @@ class Exercise5():
         The array output of tests should always be able to be used as input for checkResults
     """
 
-    def runExercise(self, inputColor: str) -> str:
+    def runExercise(self, inputColour: str) -> str:
         # Missing the blueprint!
         # 
         # In this task we will get to know the blueprint of a class.
-        # Variables color is already. No need to create.
+        # Variables colour is already. No need to create.
         #
         # Task:
         # - Create a class which works with the code below. NOTE Where to code in this exercise!
 
-        myCar = Car(inputColor)
+        myCar = Car(inputColour)
 
         myCar.doNothing()
 
-        return myCar.color
+        return myCar.colour
         
 
     def tests(self) -> list[str]:
         return [self.runExercise('rood'), self.runExercise('groen'), self.runExercise('blauw'), self.runExercise('neon race geel')]
 
-    def checkResults(self, exerciseResults: list[int]):
-        print('with inputColor being \'rood\':')
+    def checkResults(self, exerciseResults: list[str]):
+        print('with inputColour being \'rood\':')
         print('expected outcome: \'rood\'')
         print(f'your result: {exerciseResults[0]}\n')
         
-        print('with inputColor being \'groen\':')
+        print('with inputColour being \'groen\':')
         print('expected outcome: \'groen\'')
         print(f'your result: {exerciseResults[1]}\n')
         
-        print('with inputColor being \'blauw\':')
+        print('with inputColour being \'blauw\':')
         print('expected outcome: \'blauw\'')
         print(f'your result: {exerciseResults[2]}\n')
         
-        print('with inputColor being \'neon race geel\':')
+        print('with inputColour being \'neon race geel\':')
         print('expected outcome: \'neon race geel\'')
         print(f'your result: {exerciseResults[3]}\n')
