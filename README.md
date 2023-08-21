@@ -11,7 +11,7 @@ To edit and run this project, you can undertake the following steps
 3. Download an editor/IDE, many good options. If no personal preference, [VScode](https://code.visualstudio.com/download) is recommended.
     1. Open VScode, select open folder, select the unpacked Zip from step **2**
     2. Install the following extensions `Ctrl + Shift + x`.
-        - autopep8
+        - ~autopep8~
         - intellicode
         - powershell
         - pylance
