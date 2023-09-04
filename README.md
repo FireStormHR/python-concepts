@@ -18,7 +18,7 @@ To edit and run this project, you can undertake the following steps
         - python
     3. Link the downloaded python Interpreter to VScode by doing: `Ctrl + Shift + p -> Python: select interpreter` and select the interpreter which is likely at `%user%\AppData\Local\Programs\Python\Python311`
 4. Open a terminal and check if py is callable `py --version`. (In VScode an integrated terminal is available `` Ctrl + Shift + ` ``)
-5. Ready to exercise! Look at the tasks and fill in the blanks. Everytime you want to try out an exercise enter in the terminal: `py app.py`
+5. Ready to exercise! Go to the exercise file of your choosing, look at the tasks and fill in the blanks between the below and above code. Everytime you want to try out an exercise enter in the terminal: `py app.py`
 
 ## Tips for exercises
 ### Exercise 1
