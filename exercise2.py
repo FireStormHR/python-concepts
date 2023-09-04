@@ -17,8 +17,8 @@ class Exercise2():
         # You can already use variable a. No need to create.
         #
         # Task:
-        # - Create a variable which holds a number/int version of the string in a
-        # - return this variable by typing: `return {variable}`
+        # - Create a variable which holds a number/int, this number should be a number-ified version of the string in variable a
+        # - return this variable by typing: `return {variable}` (lets run the program to see if all went fine, one test didnt :O)
         # - If the type-changing wasnt possible, return -5
 
         # CREATE CODE BELOW
