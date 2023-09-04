@@ -13,9 +13,10 @@ class Exercise3():
     def runExercise(self, a: int) -> int:
         # Like 2 colleagues but on a different floor?
         # 
-        # In this task we will see how scope can effect our program.
+        # In this task we will see how scope can effect our program. This is not really an excersice but more of a show and tell.
         #
         # Task:
+        # - Run the program and view how the a gets set multiple times
         # - Create a variable inside the if named 'a' with number 8 as value 
         # - See how your variable a will be the result everytime instead of the a defined earlier
 
@@ -30,7 +31,7 @@ class Exercise3():
             
             # ALTER CODE ABOVE
 
-            return a
+            # return a
         return a
         
 
