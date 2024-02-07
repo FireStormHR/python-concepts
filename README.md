@@ -1,5 +1,7 @@
 ![python logo pluys text](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)
 
+By Timo van Werkhoven
+
 # Welcome to the exercise project of the python course
 Here we can put all discussed topics to the test.
 Whenever you get stuck at an exercise, make sure to check out the tips section in this md below.
